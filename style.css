@@ -12,7 +12,7 @@ body {
 header {
     background: linear-gradient(135deg, #5196ff, #3469fc); /* Degradê roxo */
     color: white; /* Texto branco */
-    text-align: center; /* Centraliza o título */
+    text-align: center; /* Centraliza o  título */
     padding: 40px 20px; /* Espaçamento interno */
     box-shadow: 0 4px 10px rgba(0,0,0,0.2); /* Sombra */
     margin-bottom: 60px;
